@@ -1,0 +1,22 @@
+/*
+* File: app.ts
+* Author: Juhász Zsolt
+* Copyright: 2021, Juhász Zsolt
+* Group: Szoft 2 N
+* Date: 2021-10-24
+* Github: https://github.com/ZsoltJuhasz/
+* Licenc: GNU GPL
+*/
+
+body {
+    background-image: url(bMmkWR.png);
+}
+
+h1, h2, p, label {
+    color: coral;
+}
+
+p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
